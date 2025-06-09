@@ -6,13 +6,13 @@ body{
 
 .cabecalho{
     color: white;
-    background-color: #26416b;
+    background-color: black;
     text-align: center;
     padding: 30px;
 }
 
 .cabecalho h3{
-    color: white;
+    color: rgb(206, 206, 8);
 }
 
 p .alinha{
@@ -39,8 +39,4 @@ p .alinha{
     color: white;
     text-align: center;
     padding: 5px;
-}
-
-.bg-luiz { 
-    background-color: #258d19;
 }
